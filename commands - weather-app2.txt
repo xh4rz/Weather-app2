@@ -4,3 +4,4 @@
 4- npm install typeface-roboto
 5- npm test
 6- npm install react-icons
+7- npm i --save-dev @storybook/addon-viewport
